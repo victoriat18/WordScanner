@@ -1,5 +1,16 @@
 // Header write here
-// Name here:
+//***************************************************************************
+//
+// Name: Victoria Torres
+// ZId:  Z2043396 
+// CSCI 340 PE1
+// Word Scanner, This program cleans, counts, and organized words from an input file using a map.
+// 10/6/2026
+//I certify that this is my own work and, where appropriate, an extension
+// Of the starter code provided for the assignment.
+//
+//***************************************************************************
+
 
 #include <iostream>
 #include <map>
